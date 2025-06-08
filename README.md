@@ -5,7 +5,10 @@ Ayubo is a desktop-based clinic management application developed to support smal
 📌 Project Objectives
 
 💠 Provide a cost-effective solution for small clinics
+
 💠 Improve efficiency in healthcare delivery
+
 💠 Reduce dependency on manual systems
+
 💠 Ensure data accuracy, security, and accessibility
 
