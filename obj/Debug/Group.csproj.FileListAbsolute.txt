@@ -1,0 +1,404 @@
+D:\NSBM\23.2\2nd sem\C#\Group\bin\Debug\Group.exe.config
+D:\NSBM\23.2\2nd sem\C#\Group\bin\Debug\Group.exe
+D:\NSBM\23.2\2nd sem\C#\Group\bin\Debug\Group.pdb
+D:\NSBM\23.2\2nd sem\C#\Group\obj\Debug\Group.csproj.AssemblyReference.cache
+D:\NSBM\23.2\2nd sem\C#\Group\obj\Debug\Group.Login.resources
+D:\NSBM\23.2\2nd sem\C#\Group\obj\Debug\Group.Properties.Resources.resources
+D:\NSBM\23.2\2nd sem\C#\Group\obj\Debug\Group.csproj.GenerateResource.cache
+D:\NSBM\23.2\2nd sem\C#\Group\obj\Debug\Group.csproj.CoreCompileInputs.cache
+D:\NSBM\23.2\2nd sem\C#\Group\obj\Debug\Group.exe
+D:\NSBM\23.2\2nd sem\C#\Group\obj\Debug\Group.pdb
+D:\NSBM\23.2\2nd sem\C#\Group\obj\Debug\Group.Signup.resources
+D:\NSBM\23.2\2nd sem\C#\Group\obj\Debug\Group.Start.resources
+D:\NSBM\23.2\2nd sem\C#\Group\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\NSBM\23.2\2nd sem\C#\Group\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\NSBM\23.2\2nd sem\C#\Group\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\NSBM\23.2\2nd sem\C#\Group\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\NSBM\23.2\2nd sem\C#\Group\bin\Debug\Npgsql.dll
+D:\NSBM\23.2\2nd sem\C#\Group\bin\Debug\System.Buffers.dll
+D:\NSBM\23.2\2nd sem\C#\Group\bin\Debug\System.Collections.Immutable.dll
+D:\NSBM\23.2\2nd sem\C#\Group\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\NSBM\23.2\2nd sem\C#\Group\bin\Debug\System.Memory.dll
+D:\NSBM\23.2\2nd sem\C#\Group\bin\Debug\System.Numerics.Vectors.dll
+D:\NSBM\23.2\2nd sem\C#\Group\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\NSBM\23.2\2nd sem\C#\Group\bin\Debug\System.Text.Encodings.Web.dll
+D:\NSBM\23.2\2nd sem\C#\Group\bin\Debug\System.Text.Json.dll
+D:\NSBM\23.2\2nd sem\C#\Group\bin\Debug\System.Threading.Channels.dll
+D:\NSBM\23.2\2nd sem\C#\Group\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\NSBM\23.2\2nd sem\C#\Group\bin\Debug\System.ValueTuple.dll
+D:\NSBM\23.2\2nd sem\C#\Group\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\NSBM\23.2\2nd sem\C#\Group\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\NSBM\23.2\2nd sem\C#\Group\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\NSBM\23.2\2nd sem\C#\Group\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\NSBM\23.2\2nd sem\C#\Group\bin\Debug\Npgsql.xml
+D:\NSBM\23.2\2nd sem\C#\Group\bin\Debug\System.Buffers.xml
+D:\NSBM\23.2\2nd sem\C#\Group\bin\Debug\System.Collections.Immutable.xml
+D:\NSBM\23.2\2nd sem\C#\Group\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\NSBM\23.2\2nd sem\C#\Group\bin\Debug\System.Memory.xml
+D:\NSBM\23.2\2nd sem\C#\Group\bin\Debug\System.Numerics.Vectors.xml
+D:\NSBM\23.2\2nd sem\C#\Group\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\NSBM\23.2\2nd sem\C#\Group\bin\Debug\System.Text.Encodings.Web.xml
+D:\NSBM\23.2\2nd sem\C#\Group\bin\Debug\System.Text.Json.xml
+D:\NSBM\23.2\2nd sem\C#\Group\bin\Debug\System.Threading.Channels.xml
+D:\NSBM\23.2\2nd sem\C#\Group\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\NSBM\23.2\2nd sem\C#\Group\bin\Debug\System.ValueTuple.xml
+D:\NSBM\23.2\2nd sem\C#\Group\obj\Debug\Group.csproj.Up2Date
+D:\NSBM\23.2\2nd sem\C#\Group\obj\Debug\Group.Add_Appointment.resources
+D:\NSBM\23.2\2nd sem\C#\Group\obj\Debug\Group.Appointment.resources
+C:\Users\Manee Coding\Downloads\Group V1\Group\bin\Debug\Group.exe.config
+C:\Users\Manee Coding\Downloads\Group V1\Group\bin\Debug\Group.exe
+C:\Users\Manee Coding\Downloads\Group V1\Group\bin\Debug\Group.pdb
+C:\Users\Manee Coding\Downloads\Group V1\Group\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Manee Coding\Downloads\Group V1\Group\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Manee Coding\Downloads\Group V1\Group\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Manee Coding\Downloads\Group V1\Group\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Manee Coding\Downloads\Group V1\Group\bin\Debug\Npgsql.dll
+C:\Users\Manee Coding\Downloads\Group V1\Group\bin\Debug\System.Buffers.dll
+C:\Users\Manee Coding\Downloads\Group V1\Group\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Manee Coding\Downloads\Group V1\Group\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Manee Coding\Downloads\Group V1\Group\bin\Debug\System.Memory.dll
+C:\Users\Manee Coding\Downloads\Group V1\Group\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Manee Coding\Downloads\Group V1\Group\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Manee Coding\Downloads\Group V1\Group\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Manee Coding\Downloads\Group V1\Group\bin\Debug\System.Text.Json.dll
+C:\Users\Manee Coding\Downloads\Group V1\Group\bin\Debug\System.Threading.Channels.dll
+C:\Users\Manee Coding\Downloads\Group V1\Group\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Manee Coding\Downloads\Group V1\Group\bin\Debug\System.ValueTuple.dll
+C:\Users\Manee Coding\Downloads\Group V1\Group\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Manee Coding\Downloads\Group V1\Group\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Manee Coding\Downloads\Group V1\Group\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Manee Coding\Downloads\Group V1\Group\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Manee Coding\Downloads\Group V1\Group\bin\Debug\Npgsql.xml
+C:\Users\Manee Coding\Downloads\Group V1\Group\bin\Debug\System.Buffers.xml
+C:\Users\Manee Coding\Downloads\Group V1\Group\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Manee Coding\Downloads\Group V1\Group\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Manee Coding\Downloads\Group V1\Group\bin\Debug\System.Memory.xml
+C:\Users\Manee Coding\Downloads\Group V1\Group\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Manee Coding\Downloads\Group V1\Group\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Manee Coding\Downloads\Group V1\Group\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Manee Coding\Downloads\Group V1\Group\bin\Debug\System.Text.Json.xml
+C:\Users\Manee Coding\Downloads\Group V1\Group\bin\Debug\System.Threading.Channels.xml
+C:\Users\Manee Coding\Downloads\Group V1\Group\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Manee Coding\Downloads\Group V1\Group\bin\Debug\System.ValueTuple.xml
+C:\Users\Manee Coding\Downloads\Group V1\Group\obj\Debug\Group.csproj.AssemblyReference.cache
+C:\Users\Manee Coding\Downloads\Group V1\Group\obj\Debug\Group.Add_Appointment.resources
+C:\Users\Manee Coding\Downloads\Group V1\Group\obj\Debug\Group.Appointment.resources
+C:\Users\Manee Coding\Downloads\Group V1\Group\obj\Debug\Group.Login.resources
+C:\Users\Manee Coding\Downloads\Group V1\Group\obj\Debug\Group.Properties.Resources.resources
+C:\Users\Manee Coding\Downloads\Group V1\Group\obj\Debug\Group.Signup.resources
+C:\Users\Manee Coding\Downloads\Group V1\Group\obj\Debug\Group.Start.resources
+C:\Users\Manee Coding\Downloads\Group V1\Group\obj\Debug\Group.csproj.GenerateResource.cache
+C:\Users\Manee Coding\Downloads\Group V1\Group\obj\Debug\Group.csproj.CoreCompileInputs.cache
+C:\Users\Manee Coding\Downloads\Group V1\Group\obj\Debug\Group.csproj.Up2Date
+C:\Users\Manee Coding\Downloads\Group V1\Group\obj\Debug\Group.exe
+C:\Users\Manee Coding\Downloads\Group V1\Group\obj\Debug\Group.pdb
+D:\Music\Assignment\Group\bin\Debug\Group.exe.config
+D:\Music\Assignment\Group\bin\Debug\Group.exe
+D:\Music\Assignment\Group\bin\Debug\Group.pdb
+D:\Music\Assignment\Group\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Music\Assignment\Group\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\Music\Assignment\Group\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Music\Assignment\Group\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Music\Assignment\Group\bin\Debug\Npgsql.dll
+D:\Music\Assignment\Group\bin\Debug\System.Buffers.dll
+D:\Music\Assignment\Group\bin\Debug\System.Collections.Immutable.dll
+D:\Music\Assignment\Group\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Music\Assignment\Group\bin\Debug\System.Memory.dll
+D:\Music\Assignment\Group\bin\Debug\System.Numerics.Vectors.dll
+D:\Music\Assignment\Group\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Music\Assignment\Group\bin\Debug\System.Text.Encodings.Web.dll
+D:\Music\Assignment\Group\bin\Debug\System.Text.Json.dll
+D:\Music\Assignment\Group\bin\Debug\System.Threading.Channels.dll
+D:\Music\Assignment\Group\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Music\Assignment\Group\bin\Debug\System.ValueTuple.dll
+D:\Music\Assignment\Group\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Music\Assignment\Group\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\Music\Assignment\Group\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Music\Assignment\Group\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Music\Assignment\Group\bin\Debug\Npgsql.xml
+D:\Music\Assignment\Group\bin\Debug\System.Buffers.xml
+D:\Music\Assignment\Group\bin\Debug\System.Collections.Immutable.xml
+D:\Music\Assignment\Group\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Music\Assignment\Group\bin\Debug\System.Memory.xml
+D:\Music\Assignment\Group\bin\Debug\System.Numerics.Vectors.xml
+D:\Music\Assignment\Group\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Music\Assignment\Group\bin\Debug\System.Text.Encodings.Web.xml
+D:\Music\Assignment\Group\bin\Debug\System.Text.Json.xml
+D:\Music\Assignment\Group\bin\Debug\System.Threading.Channels.xml
+D:\Music\Assignment\Group\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Music\Assignment\Group\bin\Debug\System.ValueTuple.xml
+D:\Music\Assignment\Group\obj\Debug\Group.csproj.AssemblyReference.cache
+D:\Music\Assignment\Group\obj\Debug\Group.Add_Appointment.resources
+D:\Music\Assignment\Group\obj\Debug\Group.Appointment.resources
+D:\Music\Assignment\Group\obj\Debug\Group.Dashboard.resources
+D:\Music\Assignment\Group\obj\Debug\Group.Login.resources
+D:\Music\Assignment\Group\obj\Debug\Group.Properties.Resources.resources
+D:\Music\Assignment\Group\obj\Debug\Group.Signup.resources
+D:\Music\Assignment\Group\obj\Debug\Group.Start.resources
+D:\Music\Assignment\Group\obj\Debug\Group.csproj.GenerateResource.cache
+D:\Music\Assignment\Group\obj\Debug\Group.csproj.CoreCompileInputs.cache
+D:\Music\Assignment\Group\obj\Debug\Group.csproj.Up2Date
+D:\Music\Assignment\Group\obj\Debug\Group.exe
+D:\Music\Assignment\Group\obj\Debug\Group.pdb
+D:\Music\Assignment\Group\obj\Debug\Group.Add_Patient.resources
+D:\Music\Assignment\Group\obj\Debug\Group.Patient.resources
+D:\Group\bin\Debug\Group.exe.config
+D:\Group\bin\Debug\Group.exe
+D:\Group\bin\Debug\Group.pdb
+D:\Group\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Group\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\Group\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Group\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Group\bin\Debug\Npgsql.dll
+D:\Group\bin\Debug\System.Buffers.dll
+D:\Group\bin\Debug\System.Collections.Immutable.dll
+D:\Group\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Group\bin\Debug\System.Memory.dll
+D:\Group\bin\Debug\System.Numerics.Vectors.dll
+D:\Group\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Group\bin\Debug\System.Text.Encodings.Web.dll
+D:\Group\bin\Debug\System.Text.Json.dll
+D:\Group\bin\Debug\System.Threading.Channels.dll
+D:\Group\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Group\bin\Debug\System.ValueTuple.dll
+D:\Group\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Group\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\Group\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Group\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Group\bin\Debug\Npgsql.xml
+D:\Group\bin\Debug\System.Buffers.xml
+D:\Group\bin\Debug\System.Collections.Immutable.xml
+D:\Group\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Group\bin\Debug\System.Memory.xml
+D:\Group\bin\Debug\System.Numerics.Vectors.xml
+D:\Group\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Group\bin\Debug\System.Text.Encodings.Web.xml
+D:\Group\bin\Debug\System.Text.Json.xml
+D:\Group\bin\Debug\System.Threading.Channels.xml
+D:\Group\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Group\bin\Debug\System.ValueTuple.xml
+D:\Group\obj\Debug\Group.csproj.AssemblyReference.cache
+D:\Group\obj\Debug\Group.Add_Appointment.resources
+D:\Group\obj\Debug\Group.Add_Patient.resources
+D:\Group\obj\Debug\Group.Appointment.resources
+D:\Group\obj\Debug\Group.Dashboard.resources
+D:\Group\obj\Debug\Group.Login.resources
+D:\Group\obj\Debug\Group.Patient.resources
+D:\Group\obj\Debug\Group.Properties.Resources.resources
+D:\Group\obj\Debug\Group.Signup.resources
+D:\Group\obj\Debug\Group.Start.resources
+D:\Group\obj\Debug\Group.csproj.GenerateResource.cache
+D:\Group\obj\Debug\Group.csproj.CoreCompileInputs.cache
+D:\Group\obj\Debug\Group.csproj.Up2Date
+D:\Group\obj\Debug\Group.exe
+D:\Group\obj\Debug\Group.pdb
+D:\Music\C#\Group\bin\Debug\Group.exe.config
+D:\Music\C#\Group\bin\Debug\Group.exe
+D:\Music\C#\Group\bin\Debug\Group.pdb
+D:\Music\C#\Group\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Music\C#\Group\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\Music\C#\Group\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Music\C#\Group\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Music\C#\Group\bin\Debug\Npgsql.dll
+D:\Music\C#\Group\bin\Debug\System.Buffers.dll
+D:\Music\C#\Group\bin\Debug\System.Collections.Immutable.dll
+D:\Music\C#\Group\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Music\C#\Group\bin\Debug\System.Memory.dll
+D:\Music\C#\Group\bin\Debug\System.Numerics.Vectors.dll
+D:\Music\C#\Group\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Music\C#\Group\bin\Debug\System.Text.Encodings.Web.dll
+D:\Music\C#\Group\bin\Debug\System.Text.Json.dll
+D:\Music\C#\Group\bin\Debug\System.Threading.Channels.dll
+D:\Music\C#\Group\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Music\C#\Group\bin\Debug\System.ValueTuple.dll
+D:\Music\C#\Group\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Music\C#\Group\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\Music\C#\Group\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Music\C#\Group\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Music\C#\Group\bin\Debug\Npgsql.xml
+D:\Music\C#\Group\bin\Debug\System.Buffers.xml
+D:\Music\C#\Group\bin\Debug\System.Collections.Immutable.xml
+D:\Music\C#\Group\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Music\C#\Group\bin\Debug\System.Memory.xml
+D:\Music\C#\Group\bin\Debug\System.Numerics.Vectors.xml
+D:\Music\C#\Group\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Music\C#\Group\bin\Debug\System.Text.Encodings.Web.xml
+D:\Music\C#\Group\bin\Debug\System.Text.Json.xml
+D:\Music\C#\Group\bin\Debug\System.Threading.Channels.xml
+D:\Music\C#\Group\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Music\C#\Group\bin\Debug\System.ValueTuple.xml
+D:\Music\C#\Group\obj\Debug\Group.csproj.AssemblyReference.cache
+D:\Music\C#\Group\obj\Debug\Group.Add_Appointment.resources
+D:\Music\C#\Group\obj\Debug\Group.Add_Patient.resources
+D:\Music\C#\Group\obj\Debug\Group.Appointment.resources
+D:\Music\C#\Group\obj\Debug\Group.Dashboard.resources
+D:\Music\C#\Group\obj\Debug\Group.Login.resources
+D:\Music\C#\Group\obj\Debug\Group.Patient.resources
+D:\Music\C#\Group\obj\Debug\Group.Properties.Resources.resources
+D:\Music\C#\Group\obj\Debug\Group.Signup.resources
+D:\Music\C#\Group\obj\Debug\Group.Start.resources
+D:\Music\C#\Group\obj\Debug\Group.csproj.GenerateResource.cache
+D:\Music\C#\Group\obj\Debug\Group.csproj.CoreCompileInputs.cache
+D:\Music\C#\Group\obj\Debug\Group.csproj.Up2Date
+D:\Music\C#\Group\obj\Debug\Group.exe
+D:\Music\C#\Group\obj\Debug\Group.pdb
+D:\Music\C#\Group\obj\Debug\Group.Doctor.resources
+D:\Downloads\C# assignment\C#\Group\obj\Debug\Group.csproj.AssemblyReference.cache
+D:\Downloads\C# assignment\C#\Group\obj\Debug\Group.Add_Appointment.resources
+D:\Downloads\C# assignment\C#\Group\obj\Debug\Group.Add_Patient.resources
+D:\Downloads\C# assignment\C#\Group\obj\Debug\Group.Appointment.resources
+D:\Downloads\C# assignment\C#\Group\obj\Debug\Group.Dashboard.resources
+D:\Downloads\C# assignment\C#\Group\obj\Debug\Group.Doctor.resources
+D:\Downloads\C# assignment\C#\Group\obj\Debug\Group.Login.resources
+D:\Downloads\C# assignment\C#\Group\obj\Debug\Group.Patient.resources
+D:\Downloads\C# assignment\C#\Group\obj\Debug\Group.Properties.Resources.resources
+D:\Downloads\C# assignment\C#\Group\obj\Debug\Group.Signup.resources
+D:\Downloads\C# assignment\C#\Group\obj\Debug\Group.Start.resources
+D:\Downloads\C# assignment\C#\Group\obj\Debug\Group.csproj.GenerateResource.cache
+D:\Downloads\C# assignment\C#\Group\obj\Debug\Group.csproj.CoreCompileInputs.cache
+D:\Downloads\C# assignment\C#\Group\obj\Debug\Group.exe
+D:\Downloads\C# assignment\C#\Group\obj\Debug\Group.pdb
+D:\Downloads\C# assignment\C#\Group\bin\Debug\Group.exe.config
+D:\Downloads\C# assignment\C#\Group\bin\Debug\Group.exe
+D:\Downloads\C# assignment\C#\Group\bin\Debug\Group.pdb
+D:\Downloads\C# assignment\C#\Group\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Downloads\C# assignment\C#\Group\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\Downloads\C# assignment\C#\Group\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Downloads\C# assignment\C#\Group\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Downloads\C# assignment\C#\Group\bin\Debug\Npgsql.dll
+D:\Downloads\C# assignment\C#\Group\bin\Debug\System.Buffers.dll
+D:\Downloads\C# assignment\C#\Group\bin\Debug\System.Collections.Immutable.dll
+D:\Downloads\C# assignment\C#\Group\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Downloads\C# assignment\C#\Group\bin\Debug\System.Memory.dll
+D:\Downloads\C# assignment\C#\Group\bin\Debug\System.Numerics.Vectors.dll
+D:\Downloads\C# assignment\C#\Group\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Downloads\C# assignment\C#\Group\bin\Debug\System.Text.Encodings.Web.dll
+D:\Downloads\C# assignment\C#\Group\bin\Debug\System.Text.Json.dll
+D:\Downloads\C# assignment\C#\Group\bin\Debug\System.Threading.Channels.dll
+D:\Downloads\C# assignment\C#\Group\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Downloads\C# assignment\C#\Group\bin\Debug\System.ValueTuple.dll
+D:\Downloads\C# assignment\C#\Group\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Downloads\C# assignment\C#\Group\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\Downloads\C# assignment\C#\Group\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Downloads\C# assignment\C#\Group\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Downloads\C# assignment\C#\Group\bin\Debug\Npgsql.xml
+D:\Downloads\C# assignment\C#\Group\bin\Debug\System.Buffers.xml
+D:\Downloads\C# assignment\C#\Group\bin\Debug\System.Collections.Immutable.xml
+D:\Downloads\C# assignment\C#\Group\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Downloads\C# assignment\C#\Group\bin\Debug\System.Memory.xml
+D:\Downloads\C# assignment\C#\Group\bin\Debug\System.Numerics.Vectors.xml
+D:\Downloads\C# assignment\C#\Group\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Downloads\C# assignment\C#\Group\bin\Debug\System.Text.Encodings.Web.xml
+D:\Downloads\C# assignment\C#\Group\bin\Debug\System.Text.Json.xml
+D:\Downloads\C# assignment\C#\Group\bin\Debug\System.Threading.Channels.xml
+D:\Downloads\C# assignment\C#\Group\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Downloads\C# assignment\C#\Group\bin\Debug\System.ValueTuple.xml
+D:\Downloads\C# assignment\C#\Group\obj\Debug\Group.csproj.Up2Date
+D:\Downloads\C# assignment\C#\Group\obj\Debug\Group.Add_doctor.resources
+D:\NSBM\BSC\1st Year\Sem 2\Object Oriented Programming with C#\C# assignment_last\C# assignment\C#\Group\obj\Debug\Group.csproj.AssemblyReference.cache
+D:\NSBM\BSC\1st Year\Sem 2\Object Oriented Programming with C#\C# assignment_last\C# assignment\C#\Group\obj\Debug\Group.exe
+D:\NSBM\BSC\1st Year\Sem 2\Object Oriented Programming with C#\C# assignment_last\C# assignment\C#\Group\obj\Debug\Group.pdb
+D:\Downloads\C# assignment_last (1)\C# assignment_last\C# assignment\C#\Group\obj\Debug\Group.csproj.AssemblyReference.cache
+D:\Downloads\C# assignment_last (1)\C# assignment_last\C# assignment\C#\Group\obj\Debug\Group.Add_Appointment.resources
+D:\Downloads\C# assignment_last (1)\C# assignment_last\C# assignment\C#\Group\obj\Debug\Group.Add_doctor.resources
+D:\Downloads\C# assignment_last (1)\C# assignment_last\C# assignment\C#\Group\obj\Debug\Group.Add_Patient.resources
+D:\Downloads\C# assignment_last (1)\C# assignment_last\C# assignment\C#\Group\obj\Debug\Group.Appointment.resources
+D:\Downloads\C# assignment_last (1)\C# assignment_last\C# assignment\C#\Group\obj\Debug\Group.Dashboard.resources
+D:\Downloads\C# assignment_last (1)\C# assignment_last\C# assignment\C#\Group\obj\Debug\Group.Doctor.resources
+D:\Downloads\C# assignment_last (1)\C# assignment_last\C# assignment\C#\Group\obj\Debug\Group.Login.resources
+D:\Downloads\C# assignment_last (1)\C# assignment_last\C# assignment\C#\Group\obj\Debug\Group.Patient.resources
+D:\Downloads\C# assignment_last (1)\C# assignment_last\C# assignment\C#\Group\obj\Debug\Group.Properties.Resources.resources
+D:\Downloads\C# assignment_last (1)\C# assignment_last\C# assignment\C#\Group\obj\Debug\Group.Signup.resources
+D:\Downloads\C# assignment_last (1)\C# assignment_last\C# assignment\C#\Group\obj\Debug\Group.Start.resources
+D:\Downloads\C# assignment_last (1)\C# assignment_last\C# assignment\C#\Group\obj\Debug\Group.csproj.GenerateResource.cache
+D:\Downloads\C# assignment_last (1)\C# assignment_last\C# assignment\C#\Group\obj\Debug\Group.csproj.CoreCompileInputs.cache
+D:\Downloads\C# assignment_last (1)\C# assignment_last\C# assignment\C#\Group\obj\Debug\Group.exe
+D:\Downloads\C# assignment_last (1)\C# assignment_last\C# assignment\C#\Group\obj\Debug\Group.pdb
+D:\Downloads\C# assignment_last (1)\C# assignment_last\C# assignment\C#\Group\bin\Debug\Group.exe.config
+D:\Downloads\C# assignment_last (1)\C# assignment_last\C# assignment\C#\Group\bin\Debug\Group.exe
+D:\Downloads\C# assignment_last (1)\C# assignment_last\C# assignment\C#\Group\bin\Debug\Group.pdb
+D:\Downloads\C# assignment_last (1)\C# assignment_last\C# assignment\C#\Group\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Downloads\C# assignment_last (1)\C# assignment_last\C# assignment\C#\Group\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\Downloads\C# assignment_last (1)\C# assignment_last\C# assignment\C#\Group\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Downloads\C# assignment_last (1)\C# assignment_last\C# assignment\C#\Group\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Downloads\C# assignment_last (1)\C# assignment_last\C# assignment\C#\Group\bin\Debug\Npgsql.dll
+D:\Downloads\C# assignment_last (1)\C# assignment_last\C# assignment\C#\Group\bin\Debug\System.Buffers.dll
+D:\Downloads\C# assignment_last (1)\C# assignment_last\C# assignment\C#\Group\bin\Debug\System.Collections.Immutable.dll
+D:\Downloads\C# assignment_last (1)\C# assignment_last\C# assignment\C#\Group\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Downloads\C# assignment_last (1)\C# assignment_last\C# assignment\C#\Group\bin\Debug\System.Memory.dll
+D:\Downloads\C# assignment_last (1)\C# assignment_last\C# assignment\C#\Group\bin\Debug\System.Numerics.Vectors.dll
+D:\Downloads\C# assignment_last (1)\C# assignment_last\C# assignment\C#\Group\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Downloads\C# assignment_last (1)\C# assignment_last\C# assignment\C#\Group\bin\Debug\System.Text.Encodings.Web.dll
+D:\Downloads\C# assignment_last (1)\C# assignment_last\C# assignment\C#\Group\bin\Debug\System.Text.Json.dll
+D:\Downloads\C# assignment_last (1)\C# assignment_last\C# assignment\C#\Group\bin\Debug\System.Threading.Channels.dll
+D:\Downloads\C# assignment_last (1)\C# assignment_last\C# assignment\C#\Group\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Downloads\C# assignment_last (1)\C# assignment_last\C# assignment\C#\Group\bin\Debug\System.ValueTuple.dll
+D:\Downloads\C# assignment_last (1)\C# assignment_last\C# assignment\C#\Group\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Downloads\C# assignment_last (1)\C# assignment_last\C# assignment\C#\Group\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\Downloads\C# assignment_last (1)\C# assignment_last\C# assignment\C#\Group\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Downloads\C# assignment_last (1)\C# assignment_last\C# assignment\C#\Group\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Downloads\C# assignment_last (1)\C# assignment_last\C# assignment\C#\Group\bin\Debug\Npgsql.xml
+D:\Downloads\C# assignment_last (1)\C# assignment_last\C# assignment\C#\Group\bin\Debug\System.Buffers.xml
+D:\Downloads\C# assignment_last (1)\C# assignment_last\C# assignment\C#\Group\bin\Debug\System.Collections.Immutable.xml
+D:\Downloads\C# assignment_last (1)\C# assignment_last\C# assignment\C#\Group\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Downloads\C# assignment_last (1)\C# assignment_last\C# assignment\C#\Group\bin\Debug\System.Memory.xml
+D:\Downloads\C# assignment_last (1)\C# assignment_last\C# assignment\C#\Group\bin\Debug\System.Numerics.Vectors.xml
+D:\Downloads\C# assignment_last (1)\C# assignment_last\C# assignment\C#\Group\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Downloads\C# assignment_last (1)\C# assignment_last\C# assignment\C#\Group\bin\Debug\System.Text.Encodings.Web.xml
+D:\Downloads\C# assignment_last (1)\C# assignment_last\C# assignment\C#\Group\bin\Debug\System.Text.Json.xml
+D:\Downloads\C# assignment_last (1)\C# assignment_last\C# assignment\C#\Group\bin\Debug\System.Threading.Channels.xml
+D:\Downloads\C# assignment_last (1)\C# assignment_last\C# assignment\C#\Group\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Downloads\C# assignment_last (1)\C# assignment_last\C# assignment\C#\Group\bin\Debug\System.ValueTuple.xml
+D:\Downloads\C# assignment_last (1)\C# assignment_last\C# assignment\C#\Group\obj\Debug\Group.csproj.Up2Date
+C:\Users\Manee Coding\Downloads\C# Assignment Latest Final\C# assignment_last (1)\C# assignment_last\C# assignment\C#\Group\bin\Debug\Group.exe.config
+C:\Users\Manee Coding\Downloads\C# Assignment Latest Final\C# assignment_last (1)\C# assignment_last\C# assignment\C#\Group\bin\Debug\Group.exe
+C:\Users\Manee Coding\Downloads\C# Assignment Latest Final\C# assignment_last (1)\C# assignment_last\C# assignment\C#\Group\bin\Debug\Group.pdb
+C:\Users\Manee Coding\Downloads\C# Assignment Latest Final\C# assignment_last (1)\C# assignment_last\C# assignment\C#\Group\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Manee Coding\Downloads\C# Assignment Latest Final\C# assignment_last (1)\C# assignment_last\C# assignment\C#\Group\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Manee Coding\Downloads\C# Assignment Latest Final\C# assignment_last (1)\C# assignment_last\C# assignment\C#\Group\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Manee Coding\Downloads\C# Assignment Latest Final\C# assignment_last (1)\C# assignment_last\C# assignment\C#\Group\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Manee Coding\Downloads\C# Assignment Latest Final\C# assignment_last (1)\C# assignment_last\C# assignment\C#\Group\bin\Debug\Npgsql.dll
+C:\Users\Manee Coding\Downloads\C# Assignment Latest Final\C# assignment_last (1)\C# assignment_last\C# assignment\C#\Group\bin\Debug\System.Buffers.dll
+C:\Users\Manee Coding\Downloads\C# Assignment Latest Final\C# assignment_last (1)\C# assignment_last\C# assignment\C#\Group\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Manee Coding\Downloads\C# Assignment Latest Final\C# assignment_last (1)\C# assignment_last\C# assignment\C#\Group\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Manee Coding\Downloads\C# Assignment Latest Final\C# assignment_last (1)\C# assignment_last\C# assignment\C#\Group\bin\Debug\System.Memory.dll
+C:\Users\Manee Coding\Downloads\C# Assignment Latest Final\C# assignment_last (1)\C# assignment_last\C# assignment\C#\Group\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Manee Coding\Downloads\C# Assignment Latest Final\C# assignment_last (1)\C# assignment_last\C# assignment\C#\Group\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Manee Coding\Downloads\C# Assignment Latest Final\C# assignment_last (1)\C# assignment_last\C# assignment\C#\Group\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Manee Coding\Downloads\C# Assignment Latest Final\C# assignment_last (1)\C# assignment_last\C# assignment\C#\Group\bin\Debug\System.Text.Json.dll
+C:\Users\Manee Coding\Downloads\C# Assignment Latest Final\C# assignment_last (1)\C# assignment_last\C# assignment\C#\Group\bin\Debug\System.Threading.Channels.dll
+C:\Users\Manee Coding\Downloads\C# Assignment Latest Final\C# assignment_last (1)\C# assignment_last\C# assignment\C#\Group\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Manee Coding\Downloads\C# Assignment Latest Final\C# assignment_last (1)\C# assignment_last\C# assignment\C#\Group\bin\Debug\System.ValueTuple.dll
+C:\Users\Manee Coding\Downloads\C# Assignment Latest Final\C# assignment_last (1)\C# assignment_last\C# assignment\C#\Group\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Manee Coding\Downloads\C# Assignment Latest Final\C# assignment_last (1)\C# assignment_last\C# assignment\C#\Group\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Manee Coding\Downloads\C# Assignment Latest Final\C# assignment_last (1)\C# assignment_last\C# assignment\C#\Group\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Manee Coding\Downloads\C# Assignment Latest Final\C# assignment_last (1)\C# assignment_last\C# assignment\C#\Group\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Manee Coding\Downloads\C# Assignment Latest Final\C# assignment_last (1)\C# assignment_last\C# assignment\C#\Group\bin\Debug\Npgsql.xml
+C:\Users\Manee Coding\Downloads\C# Assignment Latest Final\C# assignment_last (1)\C# assignment_last\C# assignment\C#\Group\bin\Debug\System.Buffers.xml
+C:\Users\Manee Coding\Downloads\C# Assignment Latest Final\C# assignment_last (1)\C# assignment_last\C# assignment\C#\Group\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Manee Coding\Downloads\C# Assignment Latest Final\C# assignment_last (1)\C# assignment_last\C# assignment\C#\Group\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Manee Coding\Downloads\C# Assignment Latest Final\C# assignment_last (1)\C# assignment_last\C# assignment\C#\Group\bin\Debug\System.Memory.xml
+C:\Users\Manee Coding\Downloads\C# Assignment Latest Final\C# assignment_last (1)\C# assignment_last\C# assignment\C#\Group\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Manee Coding\Downloads\C# Assignment Latest Final\C# assignment_last (1)\C# assignment_last\C# assignment\C#\Group\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Manee Coding\Downloads\C# Assignment Latest Final\C# assignment_last (1)\C# assignment_last\C# assignment\C#\Group\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Manee Coding\Downloads\C# Assignment Latest Final\C# assignment_last (1)\C# assignment_last\C# assignment\C#\Group\bin\Debug\System.Text.Json.xml
+C:\Users\Manee Coding\Downloads\C# Assignment Latest Final\C# assignment_last (1)\C# assignment_last\C# assignment\C#\Group\bin\Debug\System.Threading.Channels.xml
+C:\Users\Manee Coding\Downloads\C# Assignment Latest Final\C# assignment_last (1)\C# assignment_last\C# assignment\C#\Group\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Manee Coding\Downloads\C# Assignment Latest Final\C# assignment_last (1)\C# assignment_last\C# assignment\C#\Group\bin\Debug\System.ValueTuple.xml
+C:\Users\Manee Coding\Downloads\C# Assignment Latest Final\C# assignment_last (1)\C# assignment_last\C# assignment\C#\Group\obj\Debug\Group.csproj.AssemblyReference.cache
+C:\Users\Manee Coding\Downloads\C# Assignment Latest Final\C# assignment_last (1)\C# assignment_last\C# assignment\C#\Group\obj\Debug\Group.Add_Appointment.resources
+C:\Users\Manee Coding\Downloads\C# Assignment Latest Final\C# assignment_last (1)\C# assignment_last\C# assignment\C#\Group\obj\Debug\Group.Add_doctor.resources
+C:\Users\Manee Coding\Downloads\C# Assignment Latest Final\C# assignment_last (1)\C# assignment_last\C# assignment\C#\Group\obj\Debug\Group.Add_Patient.resources
+C:\Users\Manee Coding\Downloads\C# Assignment Latest Final\C# assignment_last (1)\C# assignment_last\C# assignment\C#\Group\obj\Debug\Group.Appointment.resources
+C:\Users\Manee Coding\Downloads\C# Assignment Latest Final\C# assignment_last (1)\C# assignment_last\C# assignment\C#\Group\obj\Debug\Group.Dashboard.resources
+C:\Users\Manee Coding\Downloads\C# Assignment Latest Final\C# assignment_last (1)\C# assignment_last\C# assignment\C#\Group\obj\Debug\Group.Doctor.resources
+C:\Users\Manee Coding\Downloads\C# Assignment Latest Final\C# assignment_last (1)\C# assignment_last\C# assignment\C#\Group\obj\Debug\Group.Login.resources
+C:\Users\Manee Coding\Downloads\C# Assignment Latest Final\C# assignment_last (1)\C# assignment_last\C# assignment\C#\Group\obj\Debug\Group.Patient.resources
+C:\Users\Manee Coding\Downloads\C# Assignment Latest Final\C# assignment_last (1)\C# assignment_last\C# assignment\C#\Group\obj\Debug\Group.Properties.Resources.resources
+C:\Users\Manee Coding\Downloads\C# Assignment Latest Final\C# assignment_last (1)\C# assignment_last\C# assignment\C#\Group\obj\Debug\Group.Signup.resources
+C:\Users\Manee Coding\Downloads\C# Assignment Latest Final\C# assignment_last (1)\C# assignment_last\C# assignment\C#\Group\obj\Debug\Group.Start.resources
+C:\Users\Manee Coding\Downloads\C# Assignment Latest Final\C# assignment_last (1)\C# assignment_last\C# assignment\C#\Group\obj\Debug\Group.csproj.GenerateResource.cache
+C:\Users\Manee Coding\Downloads\C# Assignment Latest Final\C# assignment_last (1)\C# assignment_last\C# assignment\C#\Group\obj\Debug\Group.csproj.CoreCompileInputs.cache
+C:\Users\Manee Coding\Downloads\C# Assignment Latest Final\C# assignment_last (1)\C# assignment_last\C# assignment\C#\Group\obj\Debug\Group.csproj.Up2Date
+C:\Users\Manee Coding\Downloads\C# Assignment Latest Final\C# assignment_last (1)\C# assignment_last\C# assignment\C#\Group\obj\Debug\Group.exe
+C:\Users\Manee Coding\Downloads\C# Assignment Latest Final\C# assignment_last (1)\C# assignment_last\C# assignment\C#\Group\obj\Debug\Group.pdb
